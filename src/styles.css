@@ -1,0 +1,13 @@
+/* Landing page styles */
+.hero__title {
+  letter-spacing: 4px;
+  margin-left: 24px;
+  text-align: left;
+  font-family: Inter, Roboto, sans-serif;
+  line-height: 1.2;
+}
+
+.price {
+  padding-right: 12px;
+  border-left: 2px solid #eee;
+}
